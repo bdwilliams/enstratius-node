@@ -1,0 +1,15 @@
+{
+  "name": "enstratius-node",
+  "version": "0.0.1",
+  "description": "Enstratius Node.js Sample",
+  "main": "index.js",
+  "dependencies": {
+    "optimist": ">= 0.5.2",
+    "crypto": ">= 0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": "",
+  "author": "Brian Williams",
+  "license": "BSD"
+}
